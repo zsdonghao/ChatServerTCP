@@ -1,7 +1,7 @@
 #ChatServerTCP
-聊天软件服务器，基于TCP协议开发，未读的聊天记录加密保存在服务器中，当对方读取信息后会自动删除不保留任何痕迹。希望对你有用。
+一款保密性聊天软件服务器，基于TCP协议开发，未读的聊天记录加密保存在服务器中，当对方读取信息后会自动删除不保留任何痕迹。希望对你有用。
 
-A Chat Server based on TCP Protocol and MongoDB. Content will be deleted completly after it has been read. Enjoy!
+A Private Chat Server based on TCP Protocol and MongoDB. Content will be deleted completly after it has been read. Enjoy!
 
 
 ##chatserverTCP.py
